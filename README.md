@@ -64,6 +64,10 @@ The analysis compares EFERT with Fauji Fertilizer Company (FFC) to evaluate liqu
 ## Authors
 
 Group Project
+**Muhammad Shahzaib**
+**Shaheer Rehan**
+**Qais Kamlana**
+**Muhammad Tayyab**
 
 Business Finance
 
